@@ -20,7 +20,7 @@ print(marks[2]) # Positive index
 #   print("No")
 
 # Same thing applies for strings as well!
-# if "Ha" in "Harry":
+# if "Ji" in "Jinal":
 #   print("Yes")
 
 # print(marks[0:7])
